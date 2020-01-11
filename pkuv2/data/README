@@ -1,0 +1,10 @@
+http://www.icst.pku.edu.cn/struct/Projects/PKUMMD.html
+
+@article{liu2017pku,
+  title={PKU-MMD: A Large Scale Benchmark for Continuous Multi-Modal Human Action Understanding},
+  author={Chunhui, Liu and Yueyu, Hu and Yanghao, Li and Sijie, Song and Jiaying, Liu},
+  journal={arXiv preprint arXiv:1703.07475},
+  year={2017}
+}
+
+Download https://drive.google.com/drive/folders/1OYYXvH5ymvV0K0iA-eDrb-2aNJ6HAtpJ  google drive folder with Split, Label, Data-> Skeleton folder.
